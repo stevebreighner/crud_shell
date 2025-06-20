@@ -4,8 +4,8 @@ export const CONFIG = {
     COMPANY_NAME: 'JobBoard', // or "PetFinder", etc.
     COMPANY_BUSINESS_THING: 'Job', // or "Pet", etc.
     COMPANY_BUSINESS_THING_PLURAL: 'Jobs', // or "Pets"
-    WEBSITE_URL: 'jobs.stephenbreighner.com', // or "Pets"
-    COMPANY_SUPPORT_EMAIL: 'support@jobs.stephenbreighner.com', // or "Pets"
+    WEBSITE_URL: 'jobs.yoursite.com', // or "Pets"
+    COMPANY_SUPPORT_EMAIL: 'support@jobs.yoursite.com', // or "Pets"
     SUBMIT_LABEL: 'Apply Now', // or 'Submit Offer', etc.
   
     fields: [
